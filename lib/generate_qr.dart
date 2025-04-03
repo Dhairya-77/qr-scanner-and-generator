@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-//add qr_flutter dependency in pubspec/yaml
-//then import below package
+//add qr_flutter dependency in pubspec.yaml
+//then import below package for qr generation functionality
 import 'package:qr_flutter/qr_flutter.dart';
 
 //stateful widget
