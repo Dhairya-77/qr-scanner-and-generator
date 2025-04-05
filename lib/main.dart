@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
     Tab gen_qr_tab = Tab(text: "Generate QR",icon: Icon(Icons.qr_code),);
     Tab scan_qr_tab = Tab(text: "Scan QR",icon: Icon(Icons.qr_code_scanner),);
 
-    //tab bar- add tabs in tab ba
+    //tab bar- add tabs in tab bar
     TabBar tabBar= TabBar(tabs: [scan_qr_tab,gen_qr_tab],indicatorColor: Colors.purpleAccent,);
 
     //tab bar view- which tab screen will show when click on tab
