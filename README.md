@@ -14,4 +14,6 @@ This application has two tabs, one of QR code scanning and other one for generat
     -For generating the QR code i used 'qr_flutter' dependency.
     -I used one 'textField' widget for user input and in this widget's 'suffixIcon' property i used 'iconButton' widget for refreshing the QR Image View
 
-I hope this project helps you in your development. There are maybe many problems in this project, I will happy if you fix it. Thank You.
+I hope this project helps you in your development. There are maybe many problems in this project, I will happy if you fix it. 
+
+Thank You.
